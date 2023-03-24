@@ -5,7 +5,6 @@
 ![Dami's GitHub stats](https://github-readme-stats.vercel.app/api?username=es98dame&show_icons=true&theme=radical&hide=stars,issues)
 
 - 📍 Currently based in Phoenix, AZ (Open to remote)
-- 🌱 Looking for job opportunities to continue growing my experience with the full stack
 
 
 <h3 align='center'>
